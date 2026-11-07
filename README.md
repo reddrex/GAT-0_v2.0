@@ -29,16 +29,14 @@ expert-selected contexts ──► 1. extraction ──► defining information 
 
 The 2024 experiments used a GPT-3.5-series model through OpenAI's legacy Completions API.
 That model and API have since been retired, so **the original results cannot be exactly
-reproduced**. The original script is kept unchanged in `legacy/` for the record; it does
-not run as published (it contains a syntax error and, because of a misplaced `return`,
-only passed the first context to the model).
+reproduced**. 
 
 Version 1.0 (this repository) is a cleaned-up reimplementation that:
 
 - runs on **local open-weight models** through any OpenAI-compatible endpoint
   (Ollama, llama.cpp server, vLLM), so data never leaves the user's machine;
 - keeps the prompts and sampling parameters described in the dissertation (§5.1);
-- passes **all** contexts to the extraction stage;
+- passes contexts to the extraction stage;
 - logs the model, parameters, seed and prompts with every definition, so each output can be traced.
 
 Results obtained with open models are not expected to match the 2024 scores and should
@@ -90,11 +88,7 @@ python -m gat0.compare evaluation/sheet_*.csv
 Notes on the reconstruction:
 
 - The input matches the dissertation's table of sources and contexts (42 contexts).
-- *consonantización*: the corpus holds four contexts, but the dissertation reports two
-  (one per cited source). Contexts 1 (Gutiérrez-Rexach) and 3 (Guzmán Betancourt) are used.
-- The dissertation gives a maximum of about 100 tokens per call, but the 2024 definitions
-  are longer than that limit allows; the published script used 200 and 150. This version
-  uses 300 (extraction) and 150 (generation).
+- This version uses 300 (extraction) and 150 (generation) tokens.
 
 ## Data
 
