@@ -1,0 +1,50 @@
+term,model,definition,reference_dictionary,score_0_1,repetitions,expression_errors,missing_info_in_contexts,notes
+baby talk,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada, puedo elaborar una definición propia del término ""baby talk"" siguiendo la fórmula dada:
+
+Baby talk = lenguaje adaptado + pronunciación cuidada, pausas largas, acentuación exagerada, cláusulas completas pero cortas y simples, léxico restringido, temas actuales para el bebé, repeticiones de palabras, vocativos abundantes, prosodia exagerada con tono cantarín.
+
+Esta definición combina los aspectos clave extraídos del texto proporcionado en una forma concisa que cumple con la estructura solicitada.",,,,,,
+cambio lingüístico,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada y siguiendo la fórmula solicitada, puedo definir el término ""cambio lingüístico"" como:
+
+Cambio lingüístico = proceso a largo plazo + cambios en fonología, morfosintaxis, léxico y pragmática.
+
+Esta definición abarca los aspectos generales del cambio lingüístico mencionados en los contextos proporcionados, enfocándose en su naturaleza progresiva y multifacética.",,,,,,
+conductismo,qwen2.5:7b-instruct-q4_K_M,"Conductismo = teoría psicológica + proceso basado en estímulos, respuestas y refuerzos, enfatizando el papel del entorno en la adquisición de comportamientos.",,,,,,
+consonantización,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada, puedo definir la consonantización como:
+
+**Consonantización = Fenómeno lingüístico + Conversión de vocoide alto no consonántico en una consonante para ajustar la sonancia silábica.**
+
+Esta definición captura las características distintivas del fenómeno, enfatizando que se trata de un proceso lingüístico donde ocurre la transformación de elementos vocoides en consonantes con el fin de mejorar la estructura acústica y fonética de una palabra o sílaba.",,,,,,
+Dispositivo de Adquisición del Lenguaje,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada, puedo definir al ""Dispositivo de Adquisición del Lenguaje"" (LAD) de la siguiente manera:
+
+Término = Hiperónimo: Dispositivo mental abstracto + Características Distintivas: Capaz de generar cualquier frase lingüística mediante el procesamiento inconsciente e innato del input lingüístico, determinando el idioma vernáculo durante la etapa crítica de adquisición del lenguaje y constando en tres componentes (sintáctico, semántico y fonológico) que generan cadenas lingüísticas con representaciones estructurales profundas e superficiales.",,,,,,
+eyectivas,qwen2.5:7b-instruct-q4_K_M,"Las eyectivas son oclusivos hiperónimo caracterizadas por una elevación de la laringe durante los dos cierres (oral y glotal), lo que aumenta la presión del aire en la cavidad oral, resultando en un estallido auditivo distintivo.",,,,,,
+helenismo,qwen2.5:7b-instruct-q4_K_M,"Helenismo = préstamo lingüístico + palabras y frases provenientes del griego, afectando tanto el cuerpo externo como el significado de las mismas.",,,,,,
+homónimo,qwen2.5:7b-instruct-q4_K_M,"Término = hiperónimo + características distintivas.
+
+**Homónimo = palabras + pronunciación y escritura idénticas o significado coincidente por casualidad.**
+
+En esta definición, ""homónimo"" se define a través del hiperónimo ""palabras"", junto con las características de que pueden ser homógrafos (escriben igual pero pueden pertenecer a categorías gramaticales diferentes) y/o homófonos (pronuncian igual), o bien compartir significado por casualidad etimológica.",,,,,,
+lingüística diacrónica,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada, puedo elaborar una definición propia del término ""lingüística diacrónica"" siguiendo la fórmula dada:
+
+Lingüística diacrónica = estudio temporal + análisis de cambios linguísticos a lo largo de la historia.
+
+Esta definición captura el hiperónimo (estudio temporal) y las características distintivas (análisis de los cambios linguísticos ocurridos en subsistemas concretos a lo largo del tiempo, considerando el contexto sociohistórico).",,,,,,
+oración dubitativa,qwen2.5:7b-instruct-q4_K_M,"Oración dubitativa = hiperónimo (oración) + características distintivas (expresa duda o falta de certeza, utiliza verbos modales y condicionales, incluye adverbios de duda).
+
+Para una definición más detallada siguiendo la fórmula proporcionada:
+
+Oración dubitativa = oración [expresa duda o falta de certeza acerca de una afirmación, sitúa su predicación en una escala de posibilidad y no es falseable ni verificable al momento de la enunciación debido a esta falta de certeza].",,,,,,
+papel temático,qwen2.5:7b-instruct-q4_K_M,"El término **papel temático** se refiere a hiperónimo [argumentos del predicado (verbo) con características distintivas como Agente/Cause, Patient/Theme, Goal/Beneficiary, Location, Instrument, Possessor]. Estas categorías ayudan a entender y analizar las funciones semánticas de los elementos en una oración.",,,,,,
+pidginización,qwen2.5:7b-instruct-q4_K_M,"Basándome en la información proporcionada, puedo definir el ""pidginización"" siguiendo la fórmula dada:
+
+Pidginización = proceso lingüístico + creación de lenguas marginales para comunicación entre hablantes de diferentes idiomas.
+
+Esta definición captura las características distintivas del pidginización como un proceso que surge en contextos específicos y resulta en el desarrollo inicial y estabilización de una lengua mixta, adaptada a necesidades prácticas de comunicación.",,,,,,
+presuposición pragmática,qwen2.5:7b-instruct-q4_K_M,"Presuposición pragmática = condiciones conversacionales + inferencias compartidas y contextuales.
+
+Esta definición captura la idea central de que la presuposición pragmática se refiere a las condiciones o inferencias que los hablantes asumen como válidas en un contexto conversacional, basadas en creencias compartidas entre ellos.",,,,,,
+sintaxis,qwen2.5:7b-instruct-q4_K_M,"Sintaxis = subsistema lingüístico + estudio de cómo se combinan linealmente las palabras y los grupos formados.
+
+Esta definición sigue la fórmula dada, identificando ""sintaxis"" como un hiperónimo (subsistema lingüístico) con características distintivas que describen su objeto de estudio (combinación lineal de palabras y formación de grupos).",,,,,,
+verbo bivalente,qwen2.5:7b-instruct-q4_K_M,Verbo bivalente = hiperónimo (verbo) + características distintivas (requiere dos argumentos para formar una oración completa).,,,,,,

@@ -1,0 +1,29 @@
+{
+  "description": "Three conditions on the same 42 expert-selected contexts: a small local model, a large open-weight model hosted in the cloud, and a Spanish-focused European model. Model IDs must match your provider's catalogue exactly; record the provider in your results.",
+  "terms": "../contexts_private/2024/terms_2024_run.json",
+  "seeds": [1, 2, 3],
+  "conditions": [
+    {
+      "name": "local",
+      "role": "small open-weight model on the user's own machine (data never leaves it)",
+      "model": "qwen3:8b",
+      "base_url": "http://localhost:11434/v1"
+    },
+    {
+      "name": "cloud_large",
+      "role": "large general open-weight model (e.g. DeepSeek V4.1 Flash or GLM-5.3, MIT licence) through a hosted OpenAI-compatible API",
+      "model": "REPLACE-with-provider-model-id",
+      "base_url": "https://router.huggingface.co/v1",
+      "api_key_env": "HF_TOKEN",
+      "send_seed": false
+    },
+    {
+      "name": "alia",
+      "role": "Spanish-focused European model: BSC-LT/ALIA-40b-instruct-2512 (Apache 2.0)",
+      "model": "BSC-LT/ALIA-40b-instruct-2512",
+      "base_url": "https://router.huggingface.co/v1",
+      "api_key_env": "HF_TOKEN",
+      "send_seed": false
+    }
+  ]
+}

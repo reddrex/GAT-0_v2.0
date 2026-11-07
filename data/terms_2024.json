@@ -1,0 +1,17 @@
+[
+  {"term": "baby talk", "area": "Psicolingüística", "citations": [{"source": "lovon2020", "pages": "115-116"}, {"source": "marti2015", "pages": "101"}], "contexts": []},
+  {"term": "cambio lingüístico", "area": "Sociolingüística", "citations": [{"source": "contursi2008", "pages": "3"}, {"source": "contursi2008", "pages": "4"}, {"source": "contursi2008", "pages": "8"}, {"source": "bustos2006", "pages": "23"}, {"source": "bustos2006", "pages": "29"}, {"source": "bustos2006", "pages": "30"}], "contexts": []},
+  {"term": "conductismo", "area": "Psicolingüística", "citations": [{"source": "rubio_taylor", "pages": null}, {"source": "martinperis2008", "pages": "«Conductismo»"}, {"source": "hernandezpina1977", "pages": "22-25"}], "contexts": []},
+  {"term": "consonantización", "area": "Fonética y fonología", "citations": [{"source": "gutierrezrexach2016", "pages": "29-30"}, {"source": "guzman2004", "pages": "467-468"}], "contexts": []},
+  {"term": "Dispositivo de Adquisición del Lenguaje", "area": "Psicolingüística", "citations": [{"source": "garayzabal2006", "pages": "7"}, {"source": "birchenall2014", "pages": "421-422"}], "contexts": []},
+  {"term": "eyectivas", "area": "Fonética y fonología", "citations": [{"source": "nercesian2021", "pages": "81"}, {"source": "nercesian2021", "pages": "94"}, {"source": "gutierrez_espinosa2023", "pages": "2"}, {"source": "gutierrez_espinosa2023", "pages": "3"}, {"source": "gutierrez_espinosa2023", "pages": "4"}, {"source": "gutierrez_espinosa2023", "pages": "5"}], "contexts": []},
+  {"term": "helenismo", "area": "Etimología", "citations": [{"source": "quiros2012", "pages": "176"}, {"source": "andres2019", "pages": "34"}], "contexts": []},
+  {"term": "homónimo", "area": "Semántica", "citations": [{"source": "campoy2010", "pages": "3-4"}, {"source": "valenzuela1993", "pages": "225-226"}], "contexts": []},
+  {"term": "lingüística diacrónica", "area": "Perspectivas de estudio", "citations": [{"source": "miranda2007", "pages": "15-16"}, {"source": "escandell2019", "pages": "79-80"}], "contexts": []},
+  {"term": "oración dubitativa", "area": "Sintaxis", "citations": [{"source": "rae2009", "pages": null}, {"source": "mora1999", "pages": null}], "contexts": []},
+  {"term": "papel temático", "area": "Sintaxis", "citations": [{"source": "demonte1990", "pages": "116-117"}, {"source": "escandell2019", "pages": "182-183"}], "contexts": []},
+  {"term": "pidginización", "area": "Sociolingüística", "citations": [{"source": "parejo2000", "pages": "350"}, {"source": "martinperis2008", "pages": "«Pidgin»"}], "contexts": []},
+  {"term": "presuposición pragmática", "area": "Pragmática", "citations": [{"source": "sentis2001", "pages": "122"}, {"source": "sentis2001", "pages": "128"}, {"source": "sentis2001", "pages": "142"}, {"source": "caamano2022", "pages": "144-145"}], "contexts": []},
+  {"term": "sintaxis", "area": "Sintaxis", "citations": [{"source": "rae2009", "pages": null}, {"source": "zavadil2019", "pages": "15"}, {"source": "escandell2019", "pages": "165"}], "contexts": []},
+  {"term": "verbo bivalente", "area": "Sintaxis", "citations": [{"source": "rae2009", "pages": null}, {"source": "rae2009", "pages": null}], "contexts": []}
+]
